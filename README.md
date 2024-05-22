@@ -10,4 +10,5 @@
  + Bổ sung text.  
  Nguồn tham khảo:
  - Code mẫu trong tài liệu tự học.
+ - https://lazyfoo.net/tutorials/SDL/
  - https://www.youtube.com/playlist?list=PLICuKRn8LCNT2rPm9QVm7qNcQQ-FEAV8N.
