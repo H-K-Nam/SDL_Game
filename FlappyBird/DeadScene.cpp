@@ -44,3 +44,8 @@ void DeadScene::setClicked()
 {
     clicked = false;
 }
+
+void DeadScene::Free()
+{
+    deadBackground.Destroy();
+}

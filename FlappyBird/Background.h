@@ -25,11 +25,6 @@ public:
 	bool PipeBelow1Update(int incY);
 	bool PipeBelow2Update(int incY);
 	bool PipeBelow3Update(int incY);
-	int getPipe1X();
-	int getPipe1Y();
-	int getPipe2X();
-	int getPipe2Y();
-	int getPipe3X();
-	int getPipe3Y();
+
 };
 

@@ -198,6 +198,7 @@ void GameLoop::CollisionDetection()
 
         }
         Reset();
+        afterScene.Free();
     }
 }
 

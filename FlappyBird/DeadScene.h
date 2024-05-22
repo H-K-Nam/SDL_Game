@@ -17,4 +17,5 @@ public:
     void Render(SDL_Renderer* ren);
     bool getClicked();
     void setClicked();
+    void Free();
 };

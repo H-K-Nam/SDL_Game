@@ -84,3 +84,88 @@
 	<SDL_image.h>
 	"Background.h"
 
+1715929340 source:c:\users\nam\documents\github\sdl_game\flappybird\collision.cpp
+	"Collision.h"
+
+1715929162 c:\users\nam\documents\github\sdl_game\flappybird\collision.h
+	<SDL.h>
+	<SDL_image.h>
+
+1716364095 source:c:\users\nam\documents\github\sdl_game\flappybird\deadscene.cpp
+	"DeadScene.h"
+
+1716364064 c:\users\nam\documents\github\sdl_game\flappybird\deadscene.h
+	<SDL.h>
+	<SDL_image.h>
+	"Background.h"
+
+1716354152 c:\users\nam\documents\github\sdl_game\flappybird\background.h
+	"Object.h"
+
+1716299767 c:\users\nam\documents\github\sdl_game\flappybird\object.h
+	"TextureManager.h"
+
+1716276785 c:\users\nam\documents\github\sdl_game\flappybird\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+
+1716364111 source:c:\users\nam\documents\github\sdl_game\flappybird\gameloop.cpp
+	"GameLoop.h"
+
+1716354433 c:\users\nam\documents\github\sdl_game\flappybird\gameloop.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+	"Background.h"
+	"Collision.h"
+	"MainMenu.h"
+	"TextManager.h"
+	"Sound.h"
+	"DeadScene.h"
+
+1716299951 c:\users\nam\documents\github\sdl_game\flappybird\player.h
+	"Object.h"
+
+1716264860 c:\users\nam\documents\github\sdl_game\flappybird\mainmenu.h
+	<SDL.h>
+	<SDL_image.h>
+	"Background.h"
+
+1716071175 c:\users\nam\documents\github\sdl_game\flappybird\textmanager.h
+	<string>
+	<SDL_ttf.h>
+	<iostream>
+
+1716301153 c:\users\nam\documents\github\sdl_game\flappybird\sound.h
+	<SDL.h>
+	<iostream>
+	<string>
+	<SDL_mixer.h>
+	<unordered_map>
+
+1716326149 source:c:\users\nam\documents\github\sdl_game\flappybird\main.cpp
+	"GameLoop.h"
+
+1716264767 source:c:\users\nam\documents\github\sdl_game\flappybird\mainmenu.cpp
+	"MainMenu.h"
+
+1716299788 source:c:\users\nam\documents\github\sdl_game\flappybird\object.cpp
+	"Object.h"
+
+1716299988 source:c:\users\nam\documents\github\sdl_game\flappybird\player.cpp
+	"Player.h"
+	<iostream>
+
+1716301145 source:c:\users\nam\documents\github\sdl_game\flappybird\sound.cpp
+	"Sound.h"
+
+1716075021 source:c:\users\nam\documents\github\sdl_game\flappybird\textmanager.cpp
+	"TextManager.h"
+
+1716273355 source:c:\users\nam\documents\github\sdl_game\flappybird\texturemanager.cpp
+	"TextureManager.h"
+
+1716354152 source:c:\users\nam\documents\github\sdl_game\flappybird\background.cpp
+	"Background.h"
+
