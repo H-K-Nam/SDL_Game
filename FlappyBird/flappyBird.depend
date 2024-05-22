@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1716299738 source:c:\users\nam\documents\gamesdl2\background.cpp
+	"Background.h"
+
+1716299733 c:\users\nam\documents\gamesdl2\background.h
+	"Object.h"
+
+1716299767 c:\users\nam\documents\gamesdl2\object.h
+	"TextureManager.h"
+
+1716276785 c:\users\nam\documents\gamesdl2\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+
+1716349415 source:c:\users\nam\documents\gamesdl2\gameloop.cpp
+	"GameLoop.h"
+
+1716325869 c:\users\nam\documents\gamesdl2\gameloop.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+	"Background.h"
+	"Collision.h"
+	"MainMenu.h"
+	"TextManager.h"
+	"Sound.h"
+	"DeadScene.h"
+
+1716299951 c:\users\nam\documents\gamesdl2\player.h
+	"Object.h"
+
+1716326149 source:c:\users\nam\documents\gamesdl2\main.cpp
+	"GameLoop.h"
+
+1716299788 source:c:\users\nam\documents\gamesdl2\object.cpp
+	"Object.h"
+
+1716299988 source:c:\users\nam\documents\gamesdl2\player.cpp
+	"Player.h"
+	<iostream>
+
+1716273355 source:c:\users\nam\documents\gamesdl2\texturemanager.cpp
+	"TextureManager.h"
+
+1715929340 source:c:\users\nam\documents\gamesdl2\collision.cpp
+	"Collision.h"
+
+1715929162 c:\users\nam\documents\gamesdl2\collision.h
+	<SDL.h>
+	<SDL_image.h>
+
+1716264767 source:c:\users\nam\documents\gamesdl2\mainmenu.cpp
+	"MainMenu.h"
+
+1716264860 c:\users\nam\documents\gamesdl2\mainmenu.h
+	<SDL.h>
+	<SDL_image.h>
+	"Background.h"
+
+1716075021 source:c:\users\nam\documents\gamesdl2\textmanager.cpp
+	"TextManager.h"
+
+1716071175 c:\users\nam\documents\gamesdl2\textmanager.h
+	<string>
+	<SDL_ttf.h>
+	<iostream>
+
+1716301145 source:c:\users\nam\documents\gamesdl2\sound.cpp
+	"Sound.h"
+
+1716301153 c:\users\nam\documents\gamesdl2\sound.h
+	<SDL.h>
+	<iostream>
+	<string>
+	<SDL_mixer.h>
+	<unordered_map>
+
+1716301848 source:c:\users\nam\documents\gamesdl2\deadscene.cpp
+	"DeadScene.h"
+
+1716267124 c:\users\nam\documents\gamesdl2\deadscene.h
+	<SDL.h>
+	<SDL_image.h>
+	"Background.h"
+

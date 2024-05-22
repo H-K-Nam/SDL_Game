@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1715806617 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\gameloop.cpp
+	"GameLoop.h"
+
+1715806288 c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\gameloop.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+	"Background.h"
+
+1604006573 c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\player.h
+	"Object.h"
+
+1604006573 c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\object.h
+	"TextureManager.h"
+
+1604006573 c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+
+1715805056 c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\background.h
+	"Object.h"
+
+1604006573 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\main.cpp
+	"GameLoop.h"
+
+1604006573 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\object.cpp
+	"Object.h"
+
+1604006573 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\texturemanager.cpp
+	"TextureManager.h"
+
+1715806173 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\background.cpp
+	"Background.h"
+
+1715636471 source:c:\users\nam\downloads\sdl-tutorial-ep-14-making-jump\game\tutorial\player.cpp
+	"Player.h"
+	<iostream>
+
