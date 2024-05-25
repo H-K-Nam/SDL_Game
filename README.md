@@ -5,7 +5,8 @@
  Chủ đề bài tập lớn: Game Flappy Bird đơn giản.  
  Giới thiệu:  
  + Sử dụng phím SPACE hoặc mũi tên lên để điều khiển nhân vật băng qua các chướng ngại vật.  
- Ngưỡng điểm mong muốn: 6.5 - 8.5.  
+ Ngưỡng điểm mong muốn: 6.5 - 8.5.
+
  Lý do:
  + Phát triển từ code mẫu và bổ sung một số tính năng:
  + Bổ sung âm thanh
